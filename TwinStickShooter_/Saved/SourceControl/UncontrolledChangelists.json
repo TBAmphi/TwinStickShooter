@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/ShipShooterMap.umap",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/_GENERATED/leand/CubeGridToolOutput_4374B3EE.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/Medium/vl3jbbcg_tier_2/Materials/MI_vl3jbbcg.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/Medium/vl3jbbcg_tier_2/Textures/T_vl3jbbcg_2K_B.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/Medium/vl3jbbcg_tier_2/Textures/T_vl3jbbcg_2K_N.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Fab/Megascans/Surfaces/Ground_Rubble_vl3jbbcg/Medium/vl3jbbcg_tier_2/Textures/T_vl3jbbcg_2K_ORM.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Map/ShipShooterMap.umap",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BP_Ship.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BP_Player.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BP_Enemy.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BP_GameMode_Shooter.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/Inputs/INP_AutoFire.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/Inputs/INP_Fire.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/Inputs/INP_LookAround.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/Inputs/INP_MoveAround.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/Inputs/IMC_TwinStickShooter.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Material/M_Ship.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/Bp_Projectile.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Material/M_Projectile.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BPI_Damagable.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BP_Gun.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/AIC_Enemy.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BP_Spawner.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/BPI_GameMode_Functions.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Core/WBP_HUD.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Audio/A_FireProjectile_Cue.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Audio/Tir.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/Game/Player/BP_Ship.uasset",
+				"C:/Users/leand/Documents/Unreal Projects/TwinStickShooter/Content/M_Ship.uasset"
+			]
+		}
+	]
+}

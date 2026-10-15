@@ -1,0 +1,18 @@
+[31252:28596:0217/095315.981:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31252:35964:0217/095316.065:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31252:28596:0217/095316.083:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23520:31024:0217/095324.356:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E1D8CE15D3A66FAB89113EFB2985F695 will be ignored
+[31252:29028:0217/095325.104:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31252:29028:0217/095325.105:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31252:29028:0217/095325.149:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31252:28596:0217/095553.100:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/131351.584:ERROR:device_event_log_impl.cc(196)] [13:13:50.670] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[31252:28596:0217/134335.083:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/134425.088:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/134430.126:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/134859.689:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/135151.380:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/135236.392:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/135242.586:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/135252.611:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[31252:28596:0217/140253.907:ERROR:device_event_log_impl.cc(196)] [14:02:53.883] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
